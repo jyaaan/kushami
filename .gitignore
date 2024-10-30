@@ -166,6 +166,7 @@ sneeze/*
 sneezes_split/*
 background/*
 backgrounds_split/*
+reconstruct_test/*
 
 # But don't ignore the directories themselves
 !sneeze/
